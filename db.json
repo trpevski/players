@@ -1,10 +1,5 @@
 [{"player_id":1,"first_name":"Callida","last_name":"Blasing","position":"Small Forward","team":"Miami Heat","image_url":"http://dummyimage.com/199x100.png/cc0000/ffffff"},
 {"player_id":2,"first_name":"Laurie","last_name":"Brave","position":"Point Guard","team":"Chicago Bulls","image_url":"http://dummyimage.com/105x100.png/ff4444/ffffff"},
 {"player_id":3,"first_name":"Patten","last_name":"Mackinder","position":"Shooting Guard","team":"Golden State Warriors","image_url":"http://dummyimage.com/125x100.png/cc0000/ffffff"},
-{"player_id":4,"first_name":"Dom","last_name":"Dudenie","position":"Center","team":"Chicago Bulls","image_url":"http://dummyimage.com/242x100.png/5fa2dd/ffffff"},
-{"player_id":5,"first_name":"Ive","last_name":"Radolf","position":"Power Forward","team":"Brooklyn Nets","image_url":"http://dummyimage.com/160x100.png/5fa2dd/ffffff"},
-{"player_id":6,"first_name":"Tressa","last_name":"Eard","position":"Shooting Guard","team":"Golden State Warriors","image_url":"http://dummyimage.com/240x100.png/5fa2dd/ffffff"},
-{"player_id":7,"first_name":"Karlie","last_name":"Mullen","position":"Shooting Guard","team":"Chicago Bulls","image_url":"http://dummyimage.com/163x100.png/ff4444/ffffff"},
-{"player_id":8,"first_name":"Roland","last_name":"Kleinmann","position":"Shooting Guard","team":"Miami Heat","image_url":"http://dummyimage.com/237x100.png/cc0000/ffffff"},
-{"player_id":9,"first_name":"Willdon","last_name":"Crocroft","position":"Power Forward","team":"Miami Heat","image_url":"http://dummyimage.com/164x100.png/5fa2dd/ffffff"},
-{"player_id":10,"first_name":"Fred","last_name":"Wabersinke","position":"Center","team":"Miami Heat","image_url":"http://dummyimage.com/237x100.png/dddddd/000000"}]
+{"player_id":4,"first_name":"Dom","last_name":"Dudenie","position":"Center","team":"Chicago Bulls","image_url":"http://dummyimage.com/242x100.png/5fa2dd/ffffff"}
+]
